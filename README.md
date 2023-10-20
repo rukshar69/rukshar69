@@ -1,4 +1,5 @@
 ## Data Science/Machine Learning Projects
+- [Fashion-GAN to Generate Clothing/Accessories Images](https://github.com/rukshar69/ML-fashion-mnist-GAN) (*In progress*)
 - [Llama 2 LLM-based MedicalBot](https://github.com/rukshar69/NLP-LLM-MedicalBot)
 - [Flight Price Prediction](https://github.com/rukshar69/Flight-Price-Prediction)
 
@@ -10,5 +11,6 @@
 - [Blogsite using NextJS](https://github.com/rukshar69/NextJS-Programming-Blog)
 
 ## Web Scraping Projects
+- [Scraping Bangladeshi News Using Guardian API](https://github.com/rukshar69/Scraping-Guardian) (*In progress*)
 - [YouTube Scraper, LuLu Market Place Scraper, Yahoo Finance Stock Market Data Mining](https://github.com/rukshar69/Web-Scraping)
 - [Scraping Several Websites to Collect Product Images](https://github.com/rukshar69/Web-Scraping-Image-Scraping)
