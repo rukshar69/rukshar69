@@ -1,3 +1,6 @@
+## LinkedIn(Detailed Resume)
+[Rukshar Alam](https://www.linkedin.com/in/ruksharalam/)
+
 ## Data Science/Machine Learning Projects
 - [Fashion-GAN to Generate Clothing/Accessories Images](https://github.com/rukshar69/ML-fashion-mnist-GAN)
 - [Llama 2 LLM-based MedicalBot](https://github.com/rukshar69/NLP-LLM-MedicalBot)
