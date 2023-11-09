@@ -17,3 +17,4 @@
 - [Scraping Bangladeshi News Using Guardian API](https://github.com/rukshar69/Scraping-Guardian)
 - [YouTube Scraper, LuLu Market Place Scraper, Yahoo Finance Stock Market Data Mining](https://github.com/rukshar69/Web-Scraping)
 - [Scraping Several Websites to Collect Product Images](https://github.com/rukshar69/Web-Scraping-Image-Scraping)
+- [Scraping-Anti-Paging](https://github.com/rukshar69/Scraping-Anti-Paging)
