@@ -2,8 +2,13 @@
 [Rukshar Alam](https://www.linkedin.com/in/ruksharalam/)
 
 ## Data Science/Machine Learning Projects
-- [Fashion-GAN to Generate Clothing/Accessories Images](https://github.com/rukshar69/ML-fashion-mnist-GAN)
+
+### NLP
+- [ChatGPT Prompt Output Parser Using LangChain and OpenAI](https://github.com/rukshar69/ChatGPT-Prompt-Output-Parser/)
 - [Llama 2 LLM-based MedicalBot](https://github.com/rukshar69/NLP-LLM-MedicalBot)
+### CV
+- [Fashion-GAN to Generate Clothing/Accessories Images](https://github.com/rukshar69/ML-fashion-mnist-GAN)
+### Data Analysis
 - [Flight Price Prediction](https://github.com/rukshar69/Flight-Price-Prediction)
 
 ## Web Development Projects
