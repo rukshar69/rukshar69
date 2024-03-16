@@ -1,6 +1,8 @@
 ## LinkedIn(Detailed Resume)
 [Rukshar Alam](https://www.linkedin.com/in/ruksharalam/)
 
+[LinkedIn Articles](https://github.com/rukshar69/LinkedIn-Articles/tree/main)
+
 ## Data Science/Machine Learning Projects
 
 ### NLP
