@@ -11,7 +11,7 @@
 ### CV
 - [Fashion-GAN to Generate Clothing/Accessories Images](https://github.com/rukshar69/ML-fashion-mnist-GAN)
 ### Data Analysis
-- [Bengaluru House Price Prediction](https://github.com/rukshar69/bengaluru-house-prices/tree/main)
+- [Bengaluru House Price Prediction(FastAPI + Streamlit)](https://github.com/rukshar69/bengaluru-house-prices/tree/main)
 - [Flight Price Prediction](https://github.com/rukshar69/Flight-Price-Prediction)
 ### GraphML
 - [PyTorch's Graph Convolutional Network to predict communities for the members of a karate club](https://github.com/rukshar69/Graph-Convolutional-Network-for-Zacharys-Karate-Club)
