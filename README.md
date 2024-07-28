@@ -17,7 +17,6 @@
 - [PyTorch's Graph Convolutional Network to predict communities for the members of a karate club](https://github.com/rukshar69/Graph-Convolutional-Network-for-Zacharys-Karate-Club)
 
 ## Web Development Projects
-- [FollowPix - A Django-based Image Sharing App](https://github.com/rukshar69/FollowPix)
 - [Django-based Chat Application](https://github.com/rukshar69/Django-Chat)
 - [Django-based Auction Site](https://github.com/rukshar69/Auction-Site)
 - [Blogsite using NextJS](https://github.com/rukshar69/NextJS-Programming-Blog)
