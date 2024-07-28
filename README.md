@@ -20,7 +20,6 @@
 - [FollowPix - A Django-based Image Sharing App](https://github.com/rukshar69/FollowPix)
 - [Django-based Chat Application](https://github.com/rukshar69/Django-Chat)
 - [Django-based Auction Site](https://github.com/rukshar69/Auction-Site)
-- [Online Merch Store using Django](https://github.com/rukshar69/online-market-place-django)
 - [Blogsite using NextJS](https://github.com/rukshar69/NextJS-Programming-Blog)
 
 ## Web Scraping Projects
