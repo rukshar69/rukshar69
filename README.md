@@ -1,8 +1,6 @@
 ## LinkedIn(Detailed Resume)
 [Rukshar Alam](https://www.linkedin.com/in/ruksharalam/)
 
-[LinkedIn Articles](https://github.com/rukshar69/LinkedIn-Articles/tree/main)
-
 ## Software Engineering Projects
 - [AI Adventure Game Chatbot with NextJS, Gemini & Prompt Engineering](https://github.com/rukshar69/nextjs-gemini-chatbot)
 - [Django-based Chat Application](https://github.com/rukshar69/Django-Chat)
