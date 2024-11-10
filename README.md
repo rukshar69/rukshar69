@@ -3,8 +3,11 @@
 
 [LinkedIn Articles](https://github.com/rukshar69/LinkedIn-Articles/tree/main)
 
-## Data Science/Machine Learning Projects
+## Software Engineering Projects
 - [AI Adventure Game Chatbot with NextJS, Gemini & Prompt Engineering](https://github.com/rukshar69/nextjs-gemini-chatbot)
+- [Django-based Chat Application](https://github.com/rukshar69/Django-Chat)
+- [Django-based Auction Site](https://github.com/rukshar69/Auction-Site)
+- [Blogsite using NextJS](https://github.com/rukshar69/NextJS-Programming-Blog)
 
 ## Data Science/Machine Learning Projects
 
@@ -18,11 +21,6 @@
 - [Flight Price Prediction](https://github.com/rukshar69/Flight-Price-Prediction)
 ### GraphML
 - [PyTorch's Graph Convolutional Network to predict communities for the members of a karate club](https://github.com/rukshar69/Graph-Convolutional-Network-for-Zacharys-Karate-Club)
-
-## Web Development Projects
-- [Django-based Chat Application](https://github.com/rukshar69/Django-Chat)
-- [Django-based Auction Site](https://github.com/rukshar69/Auction-Site)
-- [Blogsite using NextJS](https://github.com/rukshar69/NextJS-Programming-Blog)
 
 ## Web Scraping Projects
 - [Scraping Bangladeshi News Using Guardian API](https://github.com/rukshar69/Scraping-Guardian)
