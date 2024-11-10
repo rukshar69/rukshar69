@@ -4,6 +4,9 @@
 [LinkedIn Articles](https://github.com/rukshar69/LinkedIn-Articles/tree/main)
 
 ## Data Science/Machine Learning Projects
+- [AI Adventure Game Chatbot with NextJS, Gemini & Prompt Engineering](https://github.com/rukshar69/nextjs-gemini-chatbot)
+
+## Data Science/Machine Learning Projects
 
 ### NLP
 - [ChatGPT Prompt Output Parser Using LangChain and OpenAI](https://github.com/rukshar69/ChatGPT-Prompt-Output-Parser/)
